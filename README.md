@@ -15,7 +15,7 @@ Ui
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px"> 
   <img
-  src="/assets/ui/2.jpg"
+  src="/assets/ui/2.png"
   width="200"
   height="400"
   alt="Alt text"
@@ -51,14 +51,14 @@ Ui
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px"> 
   <img
-  src="/assets/ui/7.jpg"
+  src="/assets/ui/7.png"
   width="200"
   height="400"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px"> 
   <img
-  src="/assets/ui/8.jpg"
+  src="/assets/ui/8.png"
   width="200"
   height="400"
   alt="Alt text"
@@ -66,7 +66,14 @@ Ui
   style="display: inline-block; margin: 0 auto; max-width: 300px"> 
 
   <img
-  src="/assets/ui/9.jpg"
+  src="/assets/ui/9.png"
+  width="200"
+  height="400"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"> 
+  <img
+  src="/assets/ui/9_1.jpg"
   width="200"
   height="400"
   alt="Alt text"
@@ -86,14 +93,14 @@ Ui
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px"> 
+
   <img
-  src="/assets/ui/12.jpg"
+  src="/assets/ui/12.png"
   width="200"
   height="400"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px"> 
-
   <img
   src="/assets/ui/13.jpg"
   width="200"
@@ -115,6 +122,7 @@ Ui
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px"> 
+
   <img
   src="/assets/ui/16.jpg"
   width="200"
@@ -122,7 +130,6 @@ Ui
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px"> 
-
   <img
   src="/assets/ui/17.jpg"
   width="200"
@@ -132,13 +139,6 @@ Ui
   style="display: inline-block; margin: 0 auto; max-width: 300px"> 
   <img
   src="/assets/ui/18.jpg"
-  width="200"
-  height="400"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px"> 
-  <img
-  src="/assets/ui/19.jpg"
   width="200"
   height="400"
   alt="Alt text"
